@@ -1,0 +1,52 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    color: peru
+    border: 2px solid blueviolet;
+    background-color: peru;
+    border-radius: 11px;
+    padding: 11px;
+}
+
+
+header  a{
+
+    text-aling:right;
+    
+    text-decoration: none;
+
+    color: 
+    blue
+
+
+}
+
+h1{
+text-align: center;
+color: powderblue;
+}
+
+footer p{
+    border: 1px solid gray;
+    padding: 3px;
+    
+}
+
+
+
+
+main nav {
+    text-decoration: none;
+    text-align: center;
+    border: 1px solid gray;
+    padding: 10px; 
+    color: gray;
+}
+
+main nav a {
+    color: gray ;
+    margin: 30px;
+
+}
